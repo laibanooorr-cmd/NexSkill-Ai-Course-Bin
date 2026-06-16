@@ -7,3 +7,4 @@ print(BookPrice)
 print("my code ends here")
 MyName=input("Please enter your name: ")
 print(MyName)
+info
