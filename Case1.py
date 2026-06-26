@@ -1,14 +1,10 @@
-s = ["Geeks", "for", "Geeks"]
+#reads a string and prints its length
+Length = "Hello World"
+print(len("Hello World")) #output 11
 
-print('Starts here')
+#input string to uppercase 
+String = "Python1"
+print(String.upper()) #PYHTON1
+print(String.lower()) #pyhton1
 
-# using for loop with string
-for i in s:
-    print(i)
-
-print('Mid here')
-
-for i in s:
-    print(i)
-
-print('Close here')
+     

@@ -22,3 +22,4 @@ for i in Property_info:
 print(Property_info[2:4:1])
 
 
+
