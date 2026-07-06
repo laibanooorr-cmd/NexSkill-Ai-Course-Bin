@@ -7,4 +7,3 @@ String = "Python1"
 print(String.upper()) #PYHTON1
 print(String.lower()) #pyhton1
 
-     
